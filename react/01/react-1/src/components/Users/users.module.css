@@ -1,0 +1,16 @@
+.avatar img {
+    width: 50px;
+    height: 50px;
+    
+    padding: 0;
+    border-radius: 40px;
+}
+
+.selectedPage {
+    font-weight: bold;
+
+}
+
+.selectPage {
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.dialogs {
+    display:grid;
+    grid-template-columns:2fr 10fr;
+    background: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 631px;
+}
+
+.dialog_User {
+    padding: 25px;
+
+}
+
+.user {
+
+}
+
+
+.messages {
+    padding: 25px;
+
+}
+
+.message {
+
+}
